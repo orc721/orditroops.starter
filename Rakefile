@@ -17,10 +17,24 @@ Hoe.spec 'officetxt' do
   self.readme_file  = 'README.md'
   self.history_file = 'HISTORY.md'
 
+  self.extra_deps = [
+      ['journaltxt'],
+      ['jekyll'],
+      ['jekyll-import'],
+      ['jekyll-avatar'],
+      ['mrhyde-tools'],
+      ['drjekyll'],
+      ['slideshow'],
+      ['pluto'],
+      ['rouge'],
+      ['kramdown'],
+      ['word-to-markdown'],
+      ['quik']
+  ]
+
   self.licenses = ['Public Domain']
 
   self.spec_extras = {
    required_ruby_version: '>= 1.9.2'
   }
-
 end

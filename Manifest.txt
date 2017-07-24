@@ -2,6 +2,8 @@ HISTORY.md
 Manifest.txt
 README.md
 Rakefile
+bin/officetxt
+bin/txt
 lib/officetxt.rb
 lib/officetxt/version.rb
 test/helper.rb
