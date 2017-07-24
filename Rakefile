@@ -22,6 +22,8 @@ Hoe.spec 'officetxt' do
       ['jekyll'],
       ['jekyll-import'],
       ['jekyll-avatar'],
+      ['jekyll-octopod'],
+      ['jekyll-planet'],
       ['mrhyde-tools'],
       ['drjekyll'],
       ['slideshow'],

@@ -32,8 +32,10 @@ Tool versions installed:
   jekyll/3.5.0
     jekyll-import/0.12.0
     jekyll-avatar/0.4.2
+    jekyll-planet/0.2.1
   mrhyde/0.1.1
   drjekyll/1.0.1
+  octopod/0.9.0
   slideshow/3.1.0
   pluto/1.2.3
   rouge/1.11.1

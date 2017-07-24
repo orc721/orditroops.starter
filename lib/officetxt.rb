@@ -31,6 +31,11 @@ require 'jekyll-avatar/version'   ## note: not auto-loaded with plugin
 require 'jekyll-feed'
 
 
+require 'jekyll/planet'
+
+
+require 'octopod/version'   ## note: just auto-load version script
+
 
 # our own code
 require 'officetxt/version'   # note: let version always go first
@@ -41,6 +46,8 @@ module Officetxt
 
 def self.about
 
+   puts
+   puts
    puts "Welcome to officetxt/#{Officetxt::VERSION}:"
    puts
    puts "Tool versions installed:"
@@ -49,6 +56,7 @@ def self.about
    puts "  jekyll/#{Jekyll::VERSION}"
    puts "    jekyll-import/#{JekyllImport::VERSION}"
    puts "    jekyll-avatar/#{Jekyll::Avatar::VERSION}"
+   puts "    jekyll-planet/#{JekyllPlanet::VERSION}"
 
 =begin
     puts "  jekyll-feed/#{Jekyll::Feed::VERSION}"
@@ -81,6 +89,9 @@ C:/prg/ri/v310/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/jekyll-octopod-0.9.0/lib/jekyl
 
    puts "  mrhyde/#{MrHyde::VERSION}"
    puts "  drjekyll/#{DrJekyll::VERSION}"
+
+   puts "  octopod/#{Jekyll::Octopod::VERSION::STRING}"
+
 
    puts "  slideshow/#{SlideshowCli::VERSION}"   ## note: Slideshow::VERSION is for models
 

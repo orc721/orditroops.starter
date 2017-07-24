@@ -19,6 +19,8 @@ class TestVersion < MiniTest::Test
     puts "    jekyll-import/#{JekyllImport::VERSION}"
     puts "    jekyll-avatar/#{Jekyll::Avatar::VERSION}"
 
+    puts "    jekyll-planet/#{JekyllPlanet::VERSION}"
+
 =begin
     puts "  jekyll-feed/#{Jekyll::Feed::VERSION}"
    no: version in ruby just in gemspec e.g.
@@ -28,6 +30,9 @@ class TestVersion < MiniTest::Test
 
      todo: try to get info from gemspec??
 =end
+
+
+    puts "  octopod/#{Jekyll::Octopod::VERSION::STRING}"
 
 
 =begin
