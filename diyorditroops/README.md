@@ -1,6 +1,17 @@
 # 25 D.I.Y. (Recursive) Ordi Troops
 
 
+## Fam
+
+<img src="../num/15585390.png" width="10%">
+<img src="../num/15585391.png" width="10%">
+
+<img src="../num/15633998.png" width="20%">
+
+<img src="../num/15633999.png" width="50%">
+
+
+
 
 To find your g(enerative) numbers in range 0-57 (58) - try the [D.I.Y. Ordi Troops Previewer »](../preview)
 
