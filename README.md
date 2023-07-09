@@ -18,7 +18,7 @@ the ordi troops (BRC-69) collection. Why not do-it-yourself (d.i.y)?
 Why not free mint (first-come/first-serve)?
 
 
-##  Wen Deploy? 
+##  Wen Deploy? Wen Mint?
 
 Here's everything to make it happen - yes, you can. 
 
@@ -92,7 +92,7 @@ d0a7694851272a332dd6441c28c776adaea6d851c9d405abdeed49a7e9e655d5i0
 ```
 
 
-That's it. Yes, you can.
+That's it. Yes, you can - start a free mint (first-come/first-serve).
 
 
 Note: You are more than welcome to change
