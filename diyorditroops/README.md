@@ -12,6 +12,6 @@
 
 
 Step 1:  Inscribe the collection deploy text.
-DONE!
+DONE!  Thanks to [@ord_gen](https://twitter.com/ord_gen).
 See [Inscribe № 15567938 »](https://ordinals.com/inscription/24ab235103da2f2f4c6ba186e2bc56534a100395d218145af50e9b658e9d9a1fi0) 
 
