@@ -1,19 +1,24 @@
-
-# D.I.Y. (Recursive) Ordi Troops Collection Starter
-
+## What's News? Updates
 
 We are live! The world's first ordgen / ORC-721 (recursive) Ordi Troops collections (on bitcoin) include:
-
 
 - [25 D.I.Y. Ordi Troops](diyorditroops)  - deploy inscribe thanks to [@ord_gen](https://twitter.com/ord_gen)
 
 
+Wen [next] deploy?   You are welcome to announce your ordgen / ORC-721 collections
+in the [ordinal punks](https://ordinalpunks.com) discord (in the #generative-orc-721 channel)
+or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the #random / General channel).
 
 
 
+# D.I.Y. (Recursive) Ordi Troops Collection Starter
 
-##  Wen Deploy? Wen (Free) Mint (First-Come/First-Serve)?
+The idea is re(use) or "recurse on" all 58 .PNG inscriptions (496×500px) in
+the ordi troops (BRC-69) collection. Why not do-it-youself (d.i.y)?
+Why not free mint (first-come/first-serve)?
 
+
+##  Wen Deploy? 
 
 Here's everything to make it happen - yes, you can. 
 
@@ -123,7 +128,5 @@ To find your g(enerative) numbers in range 0-57 (58) for the mint text - try the
 
 ## Questions? Comments?
 
-Please post in the #generative-orc-721 channel
-in the ordinal punks discord.
-For an invite
-see <https://twitter.com/OrdinalPunks/status/1620230583711576068>.
+Please post in the [ordinal punks](https://ordinalpunks.com) discord (in the #generative-orc-721 channel)
+or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the #random / General channel).
