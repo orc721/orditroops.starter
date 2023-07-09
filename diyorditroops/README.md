@@ -3,12 +3,8 @@
 
 ## Fam
 
-<img src="../num/15585390.png" width="10%"><img src="../num/15585391.png" width="10%"><img src="../num/15633998.png" width="10%"><img src="../num/15633999.png" width="10%">
+<img src="../num/15585390.png" width="10%"><img src="../num/15585391.png" width="10%"><img src="../num/15633998.png" width="10%"><img src="../num/15633999.png" width="10%"><img src="../num/.png" width="10%">
 
-
-
-
-To find your g(enerative) numbers in range 0-57 (58) - try the [D.I.Y. Ordi Troops Previewer »](../preview)
 
 
 
@@ -19,7 +15,7 @@ To find your g(enerative) numbers in range 0-57 (58) - try the [D.I.Y. Ordi Troo
 Here's everything to make it happen - yes, you can help inscribe!
 
 
-### Step 1:  Inscribe the collection deploy text
+### Step 1:  Inscribe the collection deploy text    -  DONE!
 
 
 ```
@@ -89,6 +85,8 @@ d0a7694851272a332dd6441c28c776adaea6d851c9d405abdeed49a7e9e655d5i0
 
 
 That's it. Yes, you can. Wen free mint (first-come/first-serve)?
+
+To find your g(enerative) numbers in range 0-57 (58) - try the [D.I.Y. Ordi Troops Previewer »](../preview)
 
 
 
