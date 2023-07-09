@@ -1,0 +1,6 @@
+
+exclude:
+- diyorditroops/
+- generate/
+- sandbox/
+- LICENSE.md
