@@ -97,7 +97,7 @@ or the max (limit) e.g. 1250 to your own liking.
 
 Note: The collection slug MUST be unique and not yet taken / deployed.
 Tip: Search for `og deploy` to see if taken / deployed 
-e.g. try [`unisat.io/search?q=og deploy&type=text`]((https://unisat.io/search?q=og%20deploy&type=text&p=1), for example.  
+e.g. try [`unisat.io/search?q=og deploy&type=text`](https://unisat.io/search?q=og%20deploy&type=text&p=1), for example.  
 
 
 
@@ -106,7 +106,7 @@ e.g. try [`unisat.io/search?q=og deploy&type=text`]((https://unisat.io/search?q=
 ## Mint Samples
 
 
-To find your g(enerative) numbers in range 0-57 (58) for the mint text - try the [D.I.Y. Ordi Troops Previewer »](preview)
+To find your g(enerative) numbers in range 0-57 (58) for the mint text - try the [D.I.Y. Ordi Troops Previewer »](https://orc721.github.io/orditroops.starter/preview)
 
 
 ![](i/trooper1.png)
