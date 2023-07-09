@@ -5,7 +5,7 @@
 We are live! The world's first ordgen / ORC-721 (recursive) Ordi Troops collections (on bitcoin) include:
 
 
-- [25 D.I.Y. Ordi Troops](diyorditroops) (496×500px) - deploy inscribe thanks to [@ord_gen](https://twitter.com/ord_gen)
+- [25 D.I.Y. Ordi Troops](diyorditroops)  - deploy inscribe thanks to [@ord_gen](https://twitter.com/ord_gen)
 
 
 
