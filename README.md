@@ -94,7 +94,7 @@ d0a7694851272a332dd6441c28c776adaea6d851c9d405abdeed49a7e9e655d5i0
 
 That's it. Yes, you can - start a free mint (first-come/first-serve).
 
-
+<!--
 Note: You are more than welcome to change
 the collection slug `orditroops`
 or the name e.g. (Recursive) Ordi Troops
@@ -103,6 +103,11 @@ or the max (limit) e.g. 1250 to your own liking.
 Note: The collection slug MUST be unique and not yet taken / deployed.
 Tip: Search for `og deploy` to see if taken / deployed 
 e.g. try [`unisat.io/search?q=og deploy&type=text`](https://unisat.io/search?q=og%20deploy&type=text&p=1), for example.  
+-->
+
+Wen [next] deploy?   You are welcome to announce your ordgen / ORC-721 collections
+in the [ordinal punks](https://ordinalpunks.com) discord (in the #generative-orc-721 channel)
+or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the #random / General channel).
 
 
 
