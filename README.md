@@ -11,7 +11,7 @@ or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the 
 
 
 
-# D.I.Y. (Recursive) Ordi Troops Collection Starter
+# D.I.Y. Ordi Troops Collection Starter
 
 The idea is re(use) or "recurse on" all 58 .PNG inscriptions (496×500px) in
 the ordi troops (BRC-69) collection. Why not do-it-yourself (d.i.y)?
